@@ -1,0 +1,28 @@
+body {
+  background-color: aqua;
+}
+
+.container .main {
+  background-color: lightblue;
+}
+
+.main:hover {
+  background-color: salmon;
+}
+
+.main .main-heading {
+  font-size: 2em;
+}
+
+.main .main-paragraph {
+  font-size: 1.5em;
+}
+
+.footer .footer-heading {
+  font-size: 2em;
+}
+
+.footer .footer-paragraph {
+  font-size: 1.5em;
+}
+/*# sourceMappingURL=main.css.map */
